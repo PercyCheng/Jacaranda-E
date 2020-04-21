@@ -1,6 +1,8 @@
 from PIL import Image, ImageFilter, ImageOps
 image = Image.open('E:\\picture\\1.png')
 def dodge(a, b, alpha):
+    return min(int(a * 255/ (256 - b * alpha)), 255)
+def draw(img, blur = 25, alpha = 1.0):
     img1 = img.convert('L')
     img2 = img1.copy()
     img2 = ImageOps.invert(img2)
