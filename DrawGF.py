@@ -13,7 +13,7 @@ def draw(img, blur = 25, alpha = 1.0):
         for y in range(height):
             a = img1.getpixel((x, y))
             b = img2.getpixel((x, y))
-            img1.putpixel((x ,y)), dodge(a, b alpha)
+            img1.putpixel((x, y)), dodge(a, b, alpha)
     img1.show()
     img1.save('E:\\picture\\1.png')
 
