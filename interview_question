@@ -5,6 +5,9 @@ in 5 minutes and give an output like the picture shown to you
 
 parameter may be used: "Liam", "Noah", "William", "James", "Logan", "Benjamin", "Mason", "Elijah", "Oliver", "Jacob"
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+You will have 10 minutes to finish your answer.
+Python file or text file are accepted when you submit your answer.
 """
 
 # TODO: import xlwings libarary
