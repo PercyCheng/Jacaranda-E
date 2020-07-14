@@ -1,7 +1,8 @@
 """
 You are required to look through xlwings Doc at:
 https://docs.xlwings.org/en/stable/quickstart.html
-in 5 minutes and give an output like the picture shown to you
+in 5 minutes and give an output like the picture 
+here: https://github.com/PercyCheng/Jacaranda-E/blob/master/William.png
 
 Parameter may be used: "Liam", "Noah", "William", "James", "Logan", "Benjamin", "Mason", "Elijah", "Oliver", "Jacob"
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
